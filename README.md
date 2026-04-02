@@ -1,6 +1,6 @@
 # Veil
 
-**A decentralized, end-to-end encrypted messaging protocol with domain-based identity.**
+**A decentralized, end-to-end encrypted messaging protocol with optional domain-based identity and address reservation.**
 
 > ⚠️ **Status: Ideation / working draft.** This is a whitepaper, not a working implementation. There is no active development timeline.
 
